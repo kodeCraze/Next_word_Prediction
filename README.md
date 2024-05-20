@@ -1,8 +1,12 @@
-Here is a README.md file for the Next_word_Prediction project using Jupyter Notebook, Python, and TensorFlow:
+Here is a README.md file for the Next_word_Prediction project based on the provided URL:
 
 ```markdown
 # Next_word_Prediction
 Next_word_Prediction is a project that uses Jupyter Notebook and TensorFlow to predict the next word in a sentence based on the context of the sentence.
+
+## Overview
+
+The Next_word_Prediction project is designed to predict the next word in a sentence based on the context of the sentence. This is achieved by training a deep learning model using TensorFlow and Jupyter Notebook. The model is trained on a dataset of sentences and their corresponding next words.
 
 ## Installation
 
@@ -19,7 +23,7 @@ To use the Next_word_Prediction project, you can follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Next_word_Prediction.git
+git clone https://github.com/kodeCraze/Next_word_Prediction.git
 ```
 
 2. Install the necessary dependencies:
@@ -43,7 +47,7 @@ Contributions are welcome. If you'd like to contribute, please follow these step
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Next_word_Prediction.git
+git clone https://github.com/kodeCraze/Next_word_Prediction.git
 ```
 
 2. Create a new branch:
@@ -70,3 +74,18 @@ git push origin new-feature
 ## License
 
 This project is licensed under the MIT License.
+
+## Credits
+
+This project was developed by KodeCraze.
+
+## Contact
+
+If you have any questions or need further assistance, please feel free to contact KodeCraze at [binarybrain](mailto:binarybrain.sahil@gmail.com).
+
+## Acknowledgments
+
+This project was inspired by the work of many researchers and developers in the field of natural language processing.
+
+Citations:
+[1] https://github.com/kodeCraze/Next_word_Prediction
